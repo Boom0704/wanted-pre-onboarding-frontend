@@ -8,3 +8,6 @@ npm start/
 
 3. 데모 영상 :
 https://youtu.be/F00z2_ldakc
+
+링크
+https://wanted-pre-onboarding-frontend-six-iota.vercel.app/
